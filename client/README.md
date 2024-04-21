@@ -35,4 +35,4 @@ The edUnity project aims to provide a centralized platform for students to colla
     - LearnLab (Academic forum)
     - JoyFunction (Stress relief space)
     - Contact Us
-5. **Deployment Link:** [edUnity](https://ed-unity.netlify.app/)
+5. **Deployment Link:** [edUnity](https://main--edunity-main.netlify.app/)
